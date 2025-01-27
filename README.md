@@ -6,9 +6,9 @@ https://github.com/skrkcb2/OWASP-BOLA
 
 ```json
 {
-  "userId": 1234,
-  "password": "leeinho",
-  "email": "leeinho@gmail.com"
+  "userId": 1234,              #userId 속성(property)
+  "password": "leeinho",       #password 속성(property)
+  "email": "leeinho@gmail.com" #email 속성(property)
 }
 ```
 
